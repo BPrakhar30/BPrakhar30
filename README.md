@@ -78,10 +78,11 @@ I design and ship full-stack AI products: typed LLM agents, MCP tool servers, RA
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BPrakhar30&theme=dracula&no-frame=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&margin-h=8)
-
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BPrakhar30&theme=dracula" alt="Profile summary stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BPrakhar30&theme=dracula" alt="Repos per language" />
     </td>
   </tr>
   <tr>
