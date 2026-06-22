@@ -79,7 +79,9 @@ I design and ship full-stack AI products: typed LLM agents, MCP tool servers, RA
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=BPrakhar30&theme=dracula&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BPrakhar30&theme=dracula&no-frame=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&margin-h=8)
+
     </td>
   </tr>
   <tr>
