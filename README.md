@@ -5,6 +5,7 @@
 I design and ship full-stack AI products: typed LLM agents, MCP tool servers, RAG pipelines, and observability-first backends. AI Engineer at Enterprise Solutions; previously BNY Mellon and CMU research.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel)](https://portfolio-website-khaki-zeta-44.vercel.app)
+[![Flagship project](https://img.shields.io/github/stars/BPrakhar30/Robinhood_AI_Portfolio_Analyzer?style=for-the-badge&logo=github&label=Star%20flagship%20project)](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer)
 [![Email](https://img.shields.io/badge/Email-ai.prakharb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.prakharb@gmail.com)
 
 ---
