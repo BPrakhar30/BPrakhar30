@@ -1,10 +1,10 @@
 # Hi, I'm Prakhar Bhardwaj
 
-**AI Engineer · MS Machine Learning @ Carnegie Mellon · Building production agent systems**
+**AI Engineer | MS Machine Learning @ Carnegie Mellon | Production LLM agents (PydanticAI, MCP, RAG)**
 
-I design and ship full-stack AI products — typed LLM agents, MCP tool servers, RAG pipelines, and observability-first backends. Currently an AI Engineer at Enterprise Solutions; previously BNY Mellon and CMU research. Focus: **agentic fintech** and **multimodal AI**.
+I design and ship full-stack AI products: typed LLM agents, MCP tool servers, RAG pipelines, and observability-first backends. AI Engineer at Enterprise Solutions; previously BNY Mellon and CMU research.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?style=for-the-badge&logo=vercel)](https://portfolio-website-khaki-zeta-44.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel)](https://portfolio-website-khaki-zeta-44.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ai.prakharb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.prakharb@gmail.com)
 
 ---
@@ -13,50 +13,40 @@ I design and ship full-stack AI products — typed LLM agents, MCP tool servers,
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**Robinhood AI Portfolio Copilot**](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer) | FastAPI · PydanticAI · MCP · Next.js · Gemini | Full-stack portfolio copilot with Robinhood sync, macro pulse, risk detection, and streaming AI chat |
-| [**End-to-End AI Generated Podcast**](https://github.com/BPrakhar30/End-to-End_AI-Generated_Podcast) | Python · LLMs · TTS | Automated news podcast pipeline — live on [DreamPodcasts](https://dreampodcasts.com/) |
-| [**Portfolio Website**](https://github.com/BPrakhar30/Portfolio-Website) | Next.js · TypeScript | Personal site and project showcase |
+| [**Robinhood AI Portfolio Copilot**](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer) | FastAPI, PydanticAI, MCP, Next.js | Full-stack portfolio copilot with Robinhood sync, macro pulse, risk detection, streaming AI chat |
+| [**AI Generated Podcast**](https://github.com/BPrakhar30/End-to-End_AI-Generated_Podcast) | Python, LLMs, TTS | End-to-end news podcast pipeline — live at [DreamPodcasts](https://dreampodcasts.com/) |
+| [**LLM Stack**](https://github.com/BPrakhar30/LLM_Stack) | LangChain, OpenAI, RAG | Collection of LLM apps: RAG chatbots, PDF Q&A, summarization, prompt engineering |
+| [**Portfolio Website**](https://github.com/BPrakhar30/Portfolio-Website) | Next.js, TypeScript | Dual-mode portfolio site (recruiter + creative modes) |
 
 ---
 
 ## What I build
 
-```
-LLM Agents        PydanticAI · tool calling · sub-agents · memory · SSE streaming
-Tool Protocols    Model Context Protocol (MCP) · read-only tool isolation
-Backend           FastAPI · async SQLAlchemy · PostgreSQL · Redis · JWT auth
-Observability     Pydantic Logfire · OpenTelemetry · structured tracing
-Frontend          Next.js · React · TypeScript · TanStack Query · shadcn/ui
-ML / Research     PyTorch · diffusion · contrastive learning · continual learning · CV
-```
+| Area | Tools |
+|------|-------|
+| LLM Agents | PydanticAI, tool calling, sub-agents, memory, SSE streaming |
+| Tool Protocols | Model Context Protocol (MCP), read-only tool isolation |
+| Backend | FastAPI, async SQLAlchemy, PostgreSQL, Redis, JWT |
+| Observability | Pydantic Logfire, OpenTelemetry |
+| Frontend | Next.js, React, TypeScript, TanStack Query, shadcn/ui |
+| ML / Research | PyTorch, diffusion, contrastive learning, computer vision |
 
 ---
 
 ## GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BPrakhar30&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BPrakhar30&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BPrakhar30&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BPrakhar30&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BPrakhar30&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BPrakhar30&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPrakhar30&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-</picture>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BPrakhar30&layout=compact&theme=dracula&hide_border=true&langs_count=8)
 
 ---
 
 ## Currently exploring
 
-- Agent architectures with **MCP** and provider-agnostic LLM layers
+- Agent architectures with MCP and provider-agnostic LLM layers
 - Production guardrails: rate limits, PII scrubbing, read-only tool boundaries
 - Macro-aware portfolio analytics and explainable risk scoring
 
 ---
 
-<p align="center">
-  <i>If any of my repos help you, a star goes a long way — especially on</i>
-  <a href="https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer"><b>Robinhood AI Portfolio Copilot</b></a>.
-</p>
+If any of my repos help you, a star on [**Robinhood AI Portfolio Copilot**](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer) goes a long way.
