@@ -1,12 +1,11 @@
 # Hi, I'm Prakhar Bhardwaj
 
-**AI/ML Engineer · MS Machine Learning @ Carnegie Mellon · Building production agent systems**
+**AI Engineer · MS Machine Learning @ Carnegie Mellon · Building production agent systems**
 
-I design and ship full-stack AI products — typed LLM agents, MCP tool servers, RAG pipelines, and observability-first backends. Currently focused on **agentic fintech** and **multimodal AI applications**.
+I design and ship full-stack AI products — typed LLM agents, MCP tool servers, RAG pipelines, and observability-first backends. Currently an AI Engineer at Enterprise Solutions; previously BNY Mellon and CMU research. Focus: **agentic fintech** and **multimodal AI**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prakhar.dev-0A66C2?style=for-the-badge)](https://portfolio-website-khaki-zeta-44.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakhar-bhardwaj)
-[![Email](https://img.shields.io/badge/Email-prakharb30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharb30@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?style=for-the-badge&logo=vercel)](https://portfolio-website-khaki-zeta-44.vercel.app)
+[![Email](https://img.shields.io/badge/Email-ai.prakharb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.prakharb@gmail.com)
 
 ---
 
