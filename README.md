@@ -41,7 +41,7 @@ I design and ship full-stack AI products: typed LLM agents, MCP tool servers, RA
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**Robinhood AI Portfolio Copilot**](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer) | FastAPI, PydanticAI, MCP, Next.js | Full-stack portfolio copilot with Robinhood sync, macro pulse, risk detection, streaming AI chat |
+| [**Robinhood AI Portfolio Copilot**](https://myportfoliocopilot.com/) ([repo](https://github.com/BPrakhar30/Robinhood_AI_Portfolio_Analyzer)) | FastAPI, PydanticAI, MCP, Next.js | Live at [myportfoliocopilot.com](https://myportfoliocopilot.com/) — Robinhood sync, macro pulse, risk detection, streaming AI chat |
 | [**AI Generated Podcast**](https://github.com/BPrakhar30/End-to-End_AI-Generated_Podcast) | Python, LLMs, TTS | End-to-end news podcast pipeline - [sample on Spotify](https://open.spotify.com/episode/1MpizVeG2DQrifcPd1M3dm?trackId=1MpizVeG2DQrifcPd1M3dm) |
 | [**LLM Stack**](https://github.com/BPrakhar30/LLM_Stack) | LangChain, OpenAI, RAG | Collection of LLM apps: RAG chatbots, PDF Q&A, summarization, prompt engineering |
 | [**Portfolio Website**](https://github.com/BPrakhar30/Portfolio-Website) | Next.js, TypeScript | Dual-mode portfolio site (recruiter + creative modes) |
